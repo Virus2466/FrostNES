@@ -29,7 +29,7 @@
     <ClCompile Include="Bus.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="olc6502.cpp">
+    <ClCompile Include="cpu6502.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>

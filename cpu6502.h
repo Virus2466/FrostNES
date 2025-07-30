@@ -3,11 +3,11 @@
 class Bus;
 
 
-class olc6502
+class cpu6502
 {
 public:
-	olc6502();
-	~olc6502();
+	cpu6502();
+	~cpu6502();
 
 
 public:
